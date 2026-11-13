@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+pymupdf
+numpy
+pandas
+streamlit
+requests
+python-dotenv
+pytest
